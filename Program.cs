@@ -42,6 +42,7 @@ namespace Calculator_Project
             Console.WriteLine("CALCULATING ADDING NUMBERS TOGETHER CALCULATING ADDITION");
             final_num = usersNum_1 + usersNum_2;
             Console.WriteLine("CALCULATING COMPLETE FINAL NUMBER IS: " + final_num);
+            Console.WriteLine("CALCULATING COMPLETE FINAL NUMBER IS: ");
 
 
         }

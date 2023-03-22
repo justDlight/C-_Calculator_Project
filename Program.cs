@@ -43,6 +43,7 @@ namespace Calculator_Project
             final_num = usersNum_1 + usersNum_2;
             Console.WriteLine("CALCULATING COMPLETE FINAL NUMBER IS: " + final_num);
             Console.WriteLine("CALCULATING COMPLETE FINAL NUMBER IS: ");
+            Console.WriteLine("CALCULATING COMPLETE FINAL NUMBER IS: ");
 
 
         }

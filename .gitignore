@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 obj/
 bin/
 .vs
+=======
+build/
+.vs
+*.user
+>>>>>>> 8b5c7d70e6afc7a15e1eb970cb4d0854a90e766b
